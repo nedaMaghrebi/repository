@@ -1,25 +1,22 @@
 package package1;
 
 public class CarClass {
-
-
-		  //variable
-
+	
+	
+       //attributes
 		  public  String brand;
 
 		  public  String model;
 
 		  public  int amountOfFuel;
-
-		  //Methods 
+		  
 
 		  public void brake() {
-
-		    // method for breaking.
 
 		    System.out.println("Car is breaking.");
 
 		  }
+		  
 
 		   public int accelerate() {
 
@@ -48,6 +45,7 @@ public class CarClass {
 		    System.out.println("amountOfFuel:" + amountOfFuel);
 
 		  }
+		    
 
 		    public void refuel( int refuel) {
 
@@ -77,9 +75,7 @@ public class CarClass {
 
 		  }
 
-		  
-
-		  
+		 
 
 		}
 
