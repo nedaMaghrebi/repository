@@ -10,7 +10,7 @@ public class CarClass {
 
 		  public  int amountOfFuel;
 		  
-
+         
 		  public void brake() {
 
 		    System.out.println("Car is breaking.");
